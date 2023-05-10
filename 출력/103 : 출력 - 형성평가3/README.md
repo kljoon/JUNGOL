@@ -6,6 +6,6 @@
 ### 출력 예
 >TTTTTTTTTT<br>
 >TTTTTTTTTT<br>
->    TT<br>
->    TT<br>
->    TT
+>&nbsp;&nbsp;&nbsp;&nbsp;TT<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;TT<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;TT
