@@ -5,7 +5,7 @@
 
 ### 출력 예
 >TTTTTTTTTT<br>
->TTTTTTTTTT<br>
->&nbsp;&nbsp;&nbsp;&nbsp;TT<br>
->&nbsp;&nbsp;&nbsp;&nbsp;TT<br>
->&nbsp;&nbsp;&nbsp;&nbsp;TT
+>TTTTTTTTTT<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+>    TT<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+>    TT<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+>    TT
