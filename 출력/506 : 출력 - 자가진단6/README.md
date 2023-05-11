@@ -4,7 +4,7 @@
 **다음과 같이 출력되는 프로그램을 작성하라.**
 
 ### 출력 예
->My height<br>
->170<br>
->My weight<br>
->68.600000<br>
+>     My height<br>
+>     170<br>
+>     My weight<br>
+>     68.600000<br>
