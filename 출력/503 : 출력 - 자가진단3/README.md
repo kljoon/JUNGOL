@@ -6,5 +6,5 @@
 **아래와 같이 출력되는 프로그램을 작성하라.**
 
 ### 출력 예
->My name is Hong Gil Dong.<br>
->I am 13 years old.
+>     My name is Hong Gil Dong.<br>
+>     I am 13 years old.
