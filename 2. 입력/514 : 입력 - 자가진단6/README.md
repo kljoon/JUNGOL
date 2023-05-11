@@ -5,7 +5,7 @@
 (입력할때 "height = " 문장을 먼저 출력하고 키를 입력 받아야 합니다.)**
 
 ### 입력 예
-> height = 170
+>     height = 170
 
 ### 출력 예
-> Your height is 170cm.
+>     Your height is 170cm.
