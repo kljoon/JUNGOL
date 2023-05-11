@@ -5,4 +5,4 @@
 **다음과 같이 출력되는 프로그램을 작성하라.**
 
 ### 출력 예 
->Programming! It's fun.
+>     Programming! It's fun.
