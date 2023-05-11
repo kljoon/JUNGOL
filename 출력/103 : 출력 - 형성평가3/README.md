@@ -4,8 +4,8 @@
 **다음 출력 예와 같이 출력되는 프로그램을 작성하시오.**
 
 ### 출력 예
->TTTTTTTTTT<br>
->TTTTTTTTTT<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
->    TT<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
->    TT<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
->    TT
+>     TTTTTTTTTT
+>     TTTTTTTTTT
+>         TT
+>         TT
+>         TT
